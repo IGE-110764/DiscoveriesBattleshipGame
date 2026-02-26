@@ -3,19 +3,15 @@
 Basic academic version of Battleship game to build upon.
 
 ## Identificação do Grupo
-```
+
 **Nickname:** Bolo do Caco
 **Curso:** IGE
 **Membros do grupo:**
 - Dinis Oliveira, nº 110764
-- Guilherme Pais, nº 122972
 - João Jesus, nº 123025
 - Ricardo Cabrito, nº 122999
 - Tiago Reinolds, nº 123011
-```
-## Índice
-🚢[Navios](#-navios)
----
+
 ## 🛳️NAVIOS
 
 ### Tipos de Navios que existiam na altura dos Descobrimentos Portugueses

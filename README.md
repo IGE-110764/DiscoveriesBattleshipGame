@@ -1,6 +1,7 @@
 # ⚓ Battleship
 
 Basic academic version of Battleship game to build upon.
+
 ## Identificação do Grupo
 ```
 **Nickname:** Bolo do Caco
@@ -12,8 +13,11 @@ Basic academic version of Battleship game to build upon.
 - Ricardo Cabrito, nº 122999
 - Tiago Reinolds, nº 123011
 ```
+## Índice
+🚢[Navios](#-navios)
+---
+## 🛳️NAVIOS
 
-## NAVIOS
 ### Tipos de Navios que existiam na altura dos Descobrimentos Portugueses
 ### Caravela
 Caracterizado por ser um navio muito leve e ágil, utilizado principalmente pelo Infante D.Henrique nas explorações da costa africana, sendo este ideal para explorar zonas desconhecidas devido à sua fácil manuseabilidade e agilidade.

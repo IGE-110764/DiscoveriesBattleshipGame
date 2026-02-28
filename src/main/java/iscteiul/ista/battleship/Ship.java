@@ -64,7 +64,7 @@ public abstract class Ship implements IShip {
         this.category = category;
         this.bearing = bearing;
         this.pos = pos;
-        positions = new ArrayList<>();
+        positions = new ArrayList<IPosition>();
     }
 
     /*
